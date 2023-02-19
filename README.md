@@ -27,6 +27,6 @@ Se você quiser entrar em contato comigo, pode me encontrar em:
 📧 [E-mail] viniciusdantas1111@gmail.com
 🙏 Agradecimentos
 Obrigado por visitar meu perfil no GitHub!
-![Snake animation](https://github.com/ViniciusVpDantas)
+
 
 
