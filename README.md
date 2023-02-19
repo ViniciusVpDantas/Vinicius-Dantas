@@ -27,6 +27,12 @@ Se você quiser entrar em contato comigo, pode me encontrar em:
 📧 [E-mail] viniciusdantas1111@gmail.com
 🙏 Agradecimentos
 Obrigado por visitar meu perfil no GitHub!
+<h1> Hi! My name is Vinicius. </h1>
+
+<div>
+  <a href="https://github.com/ViniciusVpDantas">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusVpDantas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVpDantas&layout=compact&langs_count=7&theme=react" />
 
 
 
