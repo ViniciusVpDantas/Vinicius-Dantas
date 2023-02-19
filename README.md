@@ -32,8 +32,8 @@ Obrigado por visitar meu perfil no GitHub!
 <div>
   <a href="https://github.com/ViniciusVpDantas">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusVpDantas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVpDantas&layout=compact&langs_count=7&theme=react" />
-    ![Snake animation](https://github.com/ViniciusVpDantas/ellen2121/blob/output/github-contribution-grid-snake.svg)
-
+ 
+    ![Snake animation](https://github.com/ViniciusVpDantas/ViniciusVpDantas/blob/output/github-contribution-grid-snake.svg)
+    
 
 
